@@ -22,15 +22,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit-jaiswal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-jaiswal&layout=compact&theme=tokyonight)
-
-## 📈 GitHub Stats
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit-jaiswal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-jaiswal&layout=compact&theme=tokyonight)
 
 <details>
   <summary>📚 My Current Learning</summary>
