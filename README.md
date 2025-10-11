@@ -7,9 +7,9 @@
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arpit-kumar-jaiswal-819478302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]arpitjais5524@gmail.com)
 
 ---
 
@@ -27,6 +27,28 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-jaiswal&layout=compact&theme=tokyonight)
 
+## 📈 GitHub Stats
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit-jaiswal&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-jaiswal&layout=compact&theme=tokyonight)
+
+<details>
+  <summary>📚 My Current Learning</summary>
+  
+  - Advanced DSA (Linked Lists, Trees, Graphs)
+  - Web Devloper 
+  - Flutter + Firebase App Dev
+</details>
+
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=arpit-jaiswal&color=blue)
+
+## 🎶 What I'm Listening To
+
+[![YouTube Music](https://img.youtube.com/vi/rkYlZnIbe2E/0.jpg)](https://music.youtube.com/watch?v=rkYlZnIbe2E)
+
+> 🎧 *Right now listening to this track*
 
 
  
