@@ -36,12 +36,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=arpit-jaiswal&color=blue)
 
-## 🎶 What I'm Listening To
+## 🎧 Now Playing  
+![Now Playing on Last.fm](https://your-action-url-to-get-now-playing)  
 
-[![YouTube Music](https://img.youtube.com/vi/rkYlZnIbe2E/0.jpg)](https://music.youtube.com/watch?v=rkYlZnIbe2E)
-
-> 🎧 *Right now listening to this track*
-
-
- 
 
