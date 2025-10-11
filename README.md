@@ -9,7 +9,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arpit-kumar-jaiswal-819478302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]arpitjais5524@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](arpitjais5524@gmail.com)
 
 ---
 
