@@ -34,7 +34,8 @@
 
 ## 🎶 What I'm Listening To
 
-[![YouTube Music](https://img.youtube.com/vi/3_g2un5M350/0.jpg)](https://music.youtube.com/watch?v=3_g2un5M350)
+[![YouTube Music](https://img.youtube.com/vi/ZM8rAsTT7yE/0.jpg)](https://music.youtube.com/watch?v=ZM8rAsTT7yE)
+
 
 > 🎧 *Right now listening to this track*
 
